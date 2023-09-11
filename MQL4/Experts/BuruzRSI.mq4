@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                      Relative Strength Index.mq4 |
 //|                   Copyright 2005-2014, MetaQuotes Software Corp. |
-//|                                              http://www.mql4.com |
+//|                                          clintontbruce@gmail.com |
 //+------------------------------------------------------------------+
 #define DEBUG
 
